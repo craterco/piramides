@@ -1,0 +1,33 @@
+/*
+.....INDEX.....
+
+1- Side Bar
+2- main
+3- static classes
+*/
+
+/*START: 1- Side Bar*/
+.crater--side__bar{
+
+}
+
+.crater--side__bar.crater--side__bar--left{
+
+}
+/*END: 2- Side Bar*/
+
+/*START: main*/
+.crater--main{
+
+}
+/*END: main*/
+
+/* START: static classes */
+.flex{
+    display: flex;
+}
+
+.flex.flex--direction__row{
+    flex-direction: row;
+}
+/* END: static classes */
